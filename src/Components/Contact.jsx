@@ -8,8 +8,10 @@ const Contact = () => {
                 <p className="text-center text-blue-300 mb-8">We'd love to hear from you! Fill out the form below or reach us directly at our email or phone number.</p>
 
                 <div className="w-full flex flex-col items-center">
-                    {/* Contact Form */}
-                    <form className="space-y-6 w-full max-w-md">
+
+                    <form className="space-y-6 w-full max-w-md" id="contactForm" action="https://api.web3forms.com/submit" method="POST">
+                        <input type="hidden" name="redirect" value="https://thank-you-page-alpha.vercel.app/" />
+                        <input type="hidden" name="access_key" value="82acfad1-8915-4689-a780-e9d599072811"></input>
                         <div>
                             <label htmlFor="name" className="block text-sm font-medium text-blue-300">Name</label>
                             <input
