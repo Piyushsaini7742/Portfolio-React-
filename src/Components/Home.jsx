@@ -10,7 +10,7 @@ const Home = () => {
                     Welcome to <span className="text-purple-400">Piyush Saini's</span> Portfolio
                 </h1>
                 <p className="text-base md:text-lg text-gray-400 italic mb-10">
-                    Crafting User Interfaces with Passion
+                    Frontend Developer
                 </p>
                 <button
                     className="bg-purple-600 hover:bg-purple-700 text-white font-medium py-3 px-8 rounded-lg shadow-md transform hover:scale-110 transition-all"
