@@ -57,7 +57,7 @@ const Navbar = () => {
             </li>
             <li className="hover:text-gray-400">
               <a
-                href="https://drive.google.com/file/d/1k629M-e0hp9GEQ06Duf6E2-T1SmnsVXp/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1YLiT2rgcve4TIPhaGiLLcSTeS8erDHWc/view?usp=drive_link"
                 target="blank"
                 className="font-bold"
               >
