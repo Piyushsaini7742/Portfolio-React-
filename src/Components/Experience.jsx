@@ -9,11 +9,11 @@ const Experience = () => {
             <div className="flex justify-center gap-8">
 
                 <div className="bg-gray-800 text-white p-6 rounded-lg shadow-lg max-w-sm">
-                    <h2 className="text-xl font-bold mb-2">Frontend Developer Intern</h2>
+                    <h2 className="text-xl font-bold mb-2">Full Stack Developer Intern</h2>
                     <p className="text-blue-400 mb-1">Kodu - powered by Dhurina - Sikar</p>
-                    <p className="text-sm text-gray-400 mb-4">June 2024 - Present</p>
+                    <p className="text-sm text-gray-400 mb-4">January 2025 - Present</p>
                     <p>
-                        As a frontend developer, I specialize in creating responsive, user-friendly interfaces using HTML, CSS, and JavaScript. I focus on optimizing performance, ensuring cross-browser compatibility, and delivering seamless, visually appealing web experiences.
+                        As a Full Stack Developer, I specialize in creating responsive, user-friendly interfaces using HTML, CSS, Node.js, Express, MongoDB and JavaScript. I focus on optimizing performance, ensuring cross-browser compatibility, and delivering seamless, visually appealing web experiences.
                     </p>
                 </div>
             </div>

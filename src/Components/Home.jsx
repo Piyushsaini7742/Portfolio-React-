@@ -10,7 +10,7 @@ const Home = () => {
                     Welcome to <span className="text-purple-400">Piyush Saini's</span> Portfolio
                 </h1>
                 <p className="text-base md:text-lg text-gray-400 italic mb-10">
-                    Frontend Developer
+                    Full Stack Developer
                 </p>
                 <button
                     className="bg-purple-600 hover:bg-purple-700 text-white font-medium py-3 px-8 rounded-lg shadow-md transform hover:scale-110 transition-all"
@@ -24,7 +24,7 @@ const Home = () => {
                 <div className="order-2 md:order-1 text-gray-300 text-sm md:text-base leading-7">
                     <p className="bg-gray-800 p-8 rounded-lg shadow-md border border-purple-500 text-gray-200">
                         <span className="text-lg md:text-xl font-semibold text-purple-400">Hello! </span><br />
-                        I’m <span className="text-purple-400 font-bold">Piyush Saini</span>, a frontend developer who loves turning ideas into reality with code. <br /><br />
+                        I’m <span className="text-purple-400 font-bold">Piyush Saini</span>, a full stack developer who loves turning ideas into reality with code. <br /><br />
                         My expertise includes <span className="text-blue-400 font-medium">React</span>, <span className="text-blue-400 font-medium">JavaScript</span>, <span className="text-blue-400 font-medium">C++</span>, and more. <br />
                         With a focus on modern, responsive designs, I aim to deliver engaging and seamless user experiences that captivate users and meet client goals.
                     </p>
